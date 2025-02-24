@@ -136,7 +136,7 @@ Assign the appropriate permissions to ost-config.php by right-clicking the file 
 <p>
 Finally, proceed with the osTicket setup in your browser by clicking Continue. Assign a name to your helpdesk as desired, and select a default email address to receive customer-submitted ticket notifications. 
   
- ![image](https://github.com/user-attachments/assets/a97efdfb-86fe-407c-9d70-7445b901fd5a height="80%" width="80%")
+ ![image](https://github.com/user-attachments/assets/a97efdfb-86fe-407c-9d70-7445b901fd5a)
 
  
   Congrats! 
